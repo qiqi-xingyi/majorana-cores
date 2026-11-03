@@ -1,0 +1,4 @@
+numpy==2.4.2
+scipy==1.17.0
+pyscf==2.12.1
+openfermion==1.7.1
